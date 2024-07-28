@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Financely/static/css/main.a3d14a4e.css",
+    "main.js": "/Financely/static/js/main.a093b1b4.js",
+    "static/media/transaction.svg": "/Financely/static/media/transaction.004d9f02317991455e50b36d9dae2a26.svg",
+    "index.html": "/Financely/index.html",
+    "main.a3d14a4e.css.map": "/Financely/static/css/main.a3d14a4e.css.map",
+    "main.a093b1b4.js.map": "/Financely/static/js/main.a093b1b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3d14a4e.css",
+    "static/js/main.a093b1b4.js"
+  ]
+}
